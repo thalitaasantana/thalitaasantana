@@ -4,9 +4,10 @@
 * Estudo de tudo um pouco, mas minhas áreas favoritas são: backend, IA, Data Science e Cybersecurity
 * Pronomes: ela/dela
 
-<div align="right">
+<div align="left">
   <a href="https://github.com/thalitaasantana">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thalitaasantana&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
+<br><br>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thalitaasantana&layout=compact&langs_count=7&theme=midnight-purple"/>
 </div>
 
